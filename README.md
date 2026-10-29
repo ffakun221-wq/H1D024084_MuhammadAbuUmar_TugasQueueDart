@@ -1,3 +1,9 @@
+Nama : Muhammad Abu Umar
+Nim: H1D024084
+Shift KRS:H
+Shift Sekarang:D
+
+
 # Implementasi Struktur Data Antrean (Queue) dalam Bahasa Dart
 
 Repositori ini berisi dokumentasi dan implementasi struktur data **Queue (Antrean)** berbasis bahasa pemrograman Dart. Program dirancang secara modular dan generik (`Queue<T>`), mematuhi prinsip fundamental **FIFO (First In, First Out)**, serta dilengkapi dengan fungsi pengujian interaktif untuk mendemonstrasikan alur penambahan, pembacaan, dan pengambilan elemen.
